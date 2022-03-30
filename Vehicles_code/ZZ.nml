@@ -1,0 +1,8 @@
+sort(FEAT_ROADVEHS, [
+	item_FA,
+	item_FAP,
+	item_FB,
+	item_FBP,
+	item_FBPP,
+	item_FT
+	]);

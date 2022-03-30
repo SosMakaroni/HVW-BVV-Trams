@@ -1,0 +1,34 @@
+﻿##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions	
+STR_GRF_NAME	:HVW BVVV Schlick Trams
+STR_GRF_DESC	:{}{LTBLUE}BVVV Schlick Trams{}{BLACK}Last update:{WHITE} 2022.03.30 {}{BLACK}Code and model:{GREEN}SosMakaroni{} {COPYRIGHT}2022 SosMakaroni{}{GRAY}License: GPLv2{}{BLACK}BVVV Schlick Trams.
+
+STR_PARAM_BUY_NAME	:Purchase cost
+STR_PARAM_BUY_DESC	:For players who want to choose the purchase cost.
+STR_PARAM_MAINTENANCE_NAME	:Maintenance costs
+STR_PARAM_MAINTENANCE_DESC	:For players who want to choose the cost of maintenance.
+STR_PARAM_GAME_VERY_EASY	:/4
+STR_PARAM_GAME_EASY	:/2
+STR_PARAM_GAME_NORMAL	:1 {SILVER} By default{BLACK}
+STR_PARAM_GAME_HARD	:x2
+STR_PARAM_GAME_VERY_HARD	:x4
+
+STR_FA_NAME	:Schlick F ł
+STR_FA_ADAT	:{GOLD}----------{}The{BLACK} Schlick {GOLD}factory built 50 {BLACK}F-type{GOLD} motor cars during 1904-1905,{} which were given track number 196-245 at the Budapest City Electric Railway (BVVV).{BLACK}{}
+STR_FAP_NAME	:Schlick F + MŁ ł
+STR_FAP_ADAT	:{GOLD}----------{}The{BLACK} Schlick {GOLD}factory built 50 {BLACK}F-type{GOLD} motor cars during 1904-1905,{} which were given track number 196-245 at the Budapest City Electric Railway (BVVV).{BLACK}{}
+STR_FB_NAME	:Schlick F
+STR_FB_ADAT	:{GOLD}----------{}In 1956, the steel frame conversions of the{BLACK} Schlick F-type {GOLD}motor cars began.{} During the conversion, several developments were launched at later times, so the trams came out of the main workshop in several versions.{BLACK}{}
+STR_FBP_NAME	:Schlick F + NŁ
+STR_FBP_ADAT	:{GOLD}----------{}In 1956, the steel frame conversions of the{BLACK} Schlick F-type {GOLD}motor cars began.{} During the conversion, several developments were launched at later times, so the trams came out of the main workshop in several versions.{BLACK}{}
+STR_FBPP_NAME	:Schlick F + 2 NŁ
+STR_FBPP_ADAT	:{GOLD}----------{}In 1956, the steel frame conversions of the{BLACK} Schlick F-type {GOLD}motor cars began.{} During the conversion, several developments were launched at later times, so the trams came out of the main workshop in several versions.{BLACK}{}
+STR_FT_NAME	:Schlick F Ń
+STR_FT_ADAT	:{GOLD}----------{}In 1956, the steel frame conversions of the{BLACK} Schlick F-type {GOLD}motor cars began.{} During the conversion, several developments were launched at later times, so the trams came out of the main workshop in several versions.{BLACK}{}
+
+STR_COLOUR_SCHEME_BUDAPEST	: - Budapest Scheme
+STR_COLOUR_SCHEME_PEPSI	: - Pepsi advertising Scheme
+STR_COLOUR_SCHEME_3	: - Color Scheme 3
+STR_COLOUR_SCHEME_4	: - Color Scheme 4
